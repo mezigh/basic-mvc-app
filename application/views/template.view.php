@@ -17,7 +17,7 @@
 <header>
 	<nav>
 		<ul id="menu-nav">
-			<li><a href="<?php echo WEBROOT;?>">ACCUEIL</a></li>
+			<li><a href="<?php echo WEBROOT;?>/">ACCUEIL</a></li>
 			<li><a href="<?php echo WEBROOT;?>/a-propos">A PROPOS</a></li>
 			<li><a href="<?php echo WEBROOT;?>/realisations">REALISATIONS</a>
 				<ul class="sub-menu">
